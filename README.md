@@ -9,7 +9,7 @@ Download [Office Deployment Tool](https://www.microsoft.com/en-us/download/detai
 
 
 
-## More info
+## Office Deployment Tool
 
 [Общие сведения о средстве развертывания](https://docs.microsoft.com/ru-ru/deployoffice/overview-of-the-office-2016-deployment-tool#exclude-onedrive-when-installing-office-365-proplus-or-other-applications)
 
