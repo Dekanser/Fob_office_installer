@@ -1,8 +1,7 @@
 # Fob_office_installer
 
 
-![Programm window](https://habrastorage.org/webt/fe/mz/u9/femzu9k64mf3qn2stb4fopspfz4.png)
-
+![Programm window](https://habrastorage.org/webt/i3/q9/y4/i3q9y4idrz4ujg7xsmmek3sgh0c.png)
 
 
 Download [Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117) and place in the same directory as FobazOfficeInstall.cmd
