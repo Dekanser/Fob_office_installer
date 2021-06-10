@@ -25,3 +25,5 @@ Download [Office Deployment Tool](https://www.microsoft.com/en-us/download/detai
 
 
 
+## Activation
+![](https://habrastorage.org/webt/p0/9m/ge/p09mgehqr01xrfrkfbld-2d915e.png)
